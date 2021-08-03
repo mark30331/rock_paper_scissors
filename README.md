@@ -1,0 +1,2 @@
+# rock_paper_scissors
+creates a connection to the server on the local host at the default port 6789.  # If the connection has been successfully established the script prompts the user to #  choose a correspondent character to (R)ock, (P)aper or (S)cissors.After sending the  # character to the server via the TCP protocol the client waits for a reply from the  # server and a notification will be dumped. # Once the client receives a response from the server the message will be printed  # to the screen and the connection will be closed.
